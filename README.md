@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Syed! <br/> Software Engineer, Data Analyst, Web Developer</h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting Data Structures & Algorithms in Java]()
+
+- <b>Full Stack Web App (React, NodeJS, MySQL, and Machine Learning Components)</b> 
+
+- <b>SQL Projects</b>
+
+<h2>Data Analysis Projects:</h2>
+  -  
+
+<h2>📺 YouTube Videos</h2>
+
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
 
 <!--
-**Syed-A-Naqvi/Syed-A-Naqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
