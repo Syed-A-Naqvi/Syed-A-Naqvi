@@ -9,7 +9,7 @@
 <h2>Data Analysis Projects:</h2>
   -  
 
-<h2>Practice:</h2>
+<h2>Programming Practice:</h2>
   - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting Data Structures & Algorithms in Java]()
 
