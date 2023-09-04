@@ -10,8 +10,10 @@
   -  
 
 <h2>Programming Practice:</h2>
-  - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java</a></b>
-  - <b><a href="https://github.com/Syed-A-Naqvi/Javascript_Practice.git">Practicing Javascript</a></b>
+  
+  - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java</a></b>  
+  
+  - <b><a href="https://github.com/Syed-A-Naqvi/Javascript_Practice.git">Javascript Practice</a></b>
   
 <h2>📺 YouTube Videos</h2>
 
