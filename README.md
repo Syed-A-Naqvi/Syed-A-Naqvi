@@ -2,15 +2,17 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting Data Structures & Algorithms in Java]()
-
 - <b>Full Stack Web App (React, NodeJS, MySQL, and Machine Learning Components)</b> 
 
 - <b>SQL Projects</b>
 
 <h2>Data Analysis Projects:</h2>
   -  
+
+<h2>Practice:</h2>
+  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting Data Structures & Algorithms in Java]()
+
 
 <h2>📺 YouTube Videos</h2>
 
