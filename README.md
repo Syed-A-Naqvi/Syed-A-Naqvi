@@ -13,7 +13,7 @@
   
   - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java</a></b>  
   
-  - <b><a href="https://github.com/Syed-A-Naqvi/Javascript_Practice.git">Javascript Practice</a></b>
+  - <b><a href="https://github.com/Syed-A-Naqvi/Frontend_Web_Development.git">Front-end Web Development Practice (Javascript, Node.js, React.js, Html, Tailwind-css)</a></b>
   
 <h2>📺 YouTube Videos</h2>
 
