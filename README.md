@@ -11,11 +11,13 @@
 
 <h2>Programming Practice:</h2>
   - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java</a></b>
+  - [https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git](https://github.com/Syed-A-Naqvi/Javascript_Practice.git)
 
+
+  
 <h2>📺 YouTube Videos</h2>
 
-- 
-
+-
 <h2> 🤳 Connect with me:</h2>
 
 
