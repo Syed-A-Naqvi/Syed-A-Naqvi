@@ -10,8 +10,7 @@
   -  
 
 <h2>Programming Practice:</h2>
-  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting Data Structures & Algorithms in Java](https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git)
+  - <b>[Data Structures and Algorithms Practice](https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git)</b>
 
 
 <h2>📺 YouTube Videos</h2>
