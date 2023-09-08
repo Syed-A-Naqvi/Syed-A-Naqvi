@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arham! <br/> Software Engineer, Data Analyst, Web Developer</h1>
+<h1>Hi, I'm Syed! <br/> Software Engineer, Data Analyst, Web Developer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
