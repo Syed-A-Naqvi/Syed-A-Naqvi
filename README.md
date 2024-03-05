@@ -3,8 +3,11 @@
 <h2>Data Analysis & Information Visualization:</h2>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/information_visualization_R.git">Data Visualizations in R using GGPLOT2
+    
   - <b><a href="https://github.com/Syed-A-Naqvi/graphTheory_dataAnalysis_python.git">Data Analysis Using Graph Theory in Python [Networkx, Matplotlib, Numpy]
+    
   - <b><a href="https://github.com/Syed-A-Naqvi/dataAnalysis_python.git">Python Data Analysis [Numpy, Matplotlib, Pandas, Seaborn]
+    
 
 <h2>Big Data Analytics and Machine Learning:</h2>
 
@@ -13,7 +16,9 @@
 <h2>Full Stack Web Development (React, NodeJS, Postgresql)</h2>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/Frontend_Web_Development.git">Front-End Movies Web Application(Javascript, Node.js, React.js, Html, Tailwind-css)</a></b>
+
   - <b><a href="https://github.com/Syed-A-Naqvi/postgress_movies_RDBMS.git"> Backend Movies Database [SQL, PostgreSQL, C++:PQXX, PGModeler, PGAdmin)</a></b>
+
   - <b><a href="https://github.com/Syed-A-Naqvi/fullStack_development.git
 "> Full-Stack Practice [Javascript, HTML, CSS, Java, JAKARTA EE] </a></b>
 
