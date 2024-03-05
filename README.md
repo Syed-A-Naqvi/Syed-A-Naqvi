@@ -13,7 +13,7 @@
 <h2>Full Stack Web Development (React, NodeJS, Postgresql)</h2>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/Frontend_Web_Development.git">Front-End Movies Web Application(Javascript, Node.js, React.js, Html, Tailwind-css)</a></b>
-  - <b><a href="https://github.com/Syed-A-Naqvi/postgress_movies_RDBMS.git"> Backend Movies Database [SQL, PostgreSQL, C++, PGModeler, PGAdmin)</a></b>
+  - <b><a href="https://github.com/Syed-A-Naqvi/postgress_movies_RDBMS.git"> Backend Movies Database [SQL, PostgreSQL, C++:PQXX, PGModeler, PGAdmin)</a></b>
   - <b><a href="https://github.com/Syed-A-Naqvi/fullStack_development.git
 "> Full-Stack Practice [Javascript, HTML, CSS, JAKARTA EE] </a></b>
 
