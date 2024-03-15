@@ -1,4 +1,5 @@
-<h1>Hi, I'm Syed! <br/> Aspiring Data Scientist and Machine Learning Engineer</h1>
+<h1>Hi, I'm Syed! <br/>
+I am intrigued by the world of aritifical intelligence and am completing my 3rd year at Ontario Tech University. Currently engaged in intensive study of machine learning using pytorch.
 
 <h2>Data Analysis & Information Visualization:</h2>
 
