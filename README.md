@@ -26,7 +26,7 @@ I am a 3rd year Computer Science student at Ontario Tech University intrigued by
 
 <h3>Data Structures and Algorithms in Java, Python and C++:</h3>
   
-  - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java and Python</a></b>
+  - <b><a href="https://github.com/Syed-A-Naqvi/dataStructures_and_algorithms.git">Practicing Data Structures & Algorithms in Java and Python</a></b>
 
 
 <h3>Full Stack Web Development (React, NodeJS, Postgresql)</h3>
