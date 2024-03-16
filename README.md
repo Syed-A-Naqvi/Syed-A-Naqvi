@@ -1,5 +1,5 @@
 <h2>Hi, I'm Syed! </h2>
-I am a 3rd year Computer Science student at Ontario Tech University intrigued by the world of aritifical intelligence. Currenly studying ways to leverage machine learning to improve or optimize various real-world processes/systems...
+I am a 3rd year Computer Science student at Ontario Tech University intrigued by the world of aritifical intelligence. Currenly studying ways to leverage machine learning and improve or optimize various real-world processes/systems...
 
 <h3>Languages and Platforms</h3>
 
@@ -37,9 +37,6 @@ I am a 3rd year Computer Science student at Ontario Tech University intrigued by
 
   - <b><a href="https://github.com/Syed-A-Naqvi/fullStack_development.git
 "> Full-Stack Practice [Javascript, HTML, CSS, Java, JAKARTA EE] </a></b>     
-
-<h3> 🤳 Connect with me:</h3>
-
 
 <!--
 
