@@ -1,33 +1,44 @@
-<h1>Hi, I'm Syed! <br/>
-I am intrigued by the world of aritifical intelligence and am completing my 3rd year at Ontario Tech University. Currently engaged in intensive study of machine learning using pytorch.
+<h2>Hi, I'm Syed! </h2>
+I am a 3rd year Computer Science student at Ontario Tech University intrigued by the world of aritifical intelligence. Currenly studying ways to leverage machine learning to improve or optimize various real-world processes/systems...
 
-<h2>Data Analysis & Information Visualization:</h2>
+<h3>Languages and Platforms</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,clojure,css,html,js,react,tailwind,nodejs,anaconda,py,pytorch,r,latex,md&perline=20)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=debian,linux,git,github,npm,postgres,vscode&perline=15)](https://skillicons.dev)
+
+
+<h3>Data Analysis & Information Visualization:</h3>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/information_visualization_R.git">Data Visualizations in R using GGPLOT2
     
   - <b><a href="https://github.com/Syed-A-Naqvi/graphTheory_dataAnalysis_python.git">Data Analysis Using Graph Theory in Python [Networkx, Matplotlib, Numpy]
     
-  - <b><a href="https://github.com/Syed-A-Naqvi/dataAnalysis_python.git">Python Data Analysis [Numpy, Matplotlib, Pandas, Seaborn]
-    
+  - <b><a href="https://github.com/Syed-A-Naqvi/dataAnalysis_python.git">Python Data Analysis [Numpy, Matplotlib, Pandas, Seaborn]    
 
-<h2>Big Data Analytics and Machine Learning:</h2>
 
-  - <b><a href="https://github.com/Syed-A-Naqvi/retail_data_mining.git">Association Rule Mining from Retail Data
-    
-<h2>Full Stack Web Development (React, NodeJS, Postgresql)</h2>
+<h3>Big Data Analytics and Machine Learning:</h3>
+
+  - <b><a href="https://github.com/Syed-A-Naqvi/retail_data_mining.git">Association Rule Mining from Retail Data    
+
+
+<h3>Data Structures and Algorithms in Java, Python and C++:</h3>
+  
+  - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java and Python</a></b>
+
+
+<h3>Full Stack Web Development (React, NodeJS, Postgresql)</h3>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/Frontend_Web_Development.git">Front-End Movies Web Application(Javascript, Node.js, React.js, Html, Tailwind-css)</a></b>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/postgress_movies_RDBMS.git"> Backend Movies Database [SQL, PostgreSQL, C++:PQXX, PGModeler, PGAdmin)</a></b>
 
   - <b><a href="https://github.com/Syed-A-Naqvi/fullStack_development.git
-"> Full-Stack Practice [Javascript, HTML, CSS, Java, JAKARTA EE] </a></b>
+"> Full-Stack Practice [Javascript, HTML, CSS, Java, JAKARTA EE] </a></b>     
 
-<h2>Data Structures and Algorithms in Java, Python and C++:</h2>
-  
-  - <b><a href="https://github.com/Syed-A-Naqvi/DataStructs_and_Algos.git">Practicing Data Structures & Algorithms in Java and Python</a></b>  
-
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 
 <!--
