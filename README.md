@@ -12,7 +12,7 @@ I am a 3rd year Computer Science student at Ontario Tech University intrigued by
 
 <h3>Data Analysis & Information Visualization:</h3>
 
-  - <b><a href="https://github.com/Syed-A-Naqvi/information_visualization_R.git">Data Visualizations in R using GGPLOT2
+  - <b><a href="https://github.com/Syed-A-Naqvi/information_visualization_R/tree/master/assignment">Data Visualizations in R using GGPLOT2
     
   - <b><a href="https://github.com/Syed-A-Naqvi/graphTheory_dataAnalysis_python.git">Data Analysis Using Graph Theory in Python [Networkx, Matplotlib, Numpy]
     
