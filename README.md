@@ -3,7 +3,7 @@ I am a 3rd year Computer Science student at Ontario Tech University intrigued by
 
 <h3>Languages and Platforms</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,clojure,css,html,js,react,tailwind,nodejs,anaconda,py,pytorch,r,latex,md&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,clojure,css,html,js,react,tailwind,nodejs,anaconda,py,pytorch,r,latex,md&perline=10)](https://skillicons.dev)
 
 <h3>Tools</h3>
 
