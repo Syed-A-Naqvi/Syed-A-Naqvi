@@ -1,16 +1,16 @@
-<h2>Hi, I'm Syed! </h2>
+## Hi, I'm Syed!
 I am a 4th year Computer Science student at Ontario Tech University intrigued by the world of aritifical intelligence. Currently studying ways to leverage machine learning and improve or optimize various real-world processes/systems...
 
-<h3>Languages and Platforms</h3>
+### Languages and Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,clojure,css,html,js,react,tailwind,nodejs,anaconda,py,pytorch,r,latex,md&perline=10)](https://skillicons.dev)
 
-<h3>Tools</h3>
+### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=debian,linux,git,github,npm,postgres,vscode&perline=15)](https://skillicons.dev)
 
 
-<h3>Data Analysis & Information Visualization:</h3>
+### Data Analysis & Information Visualization:
 
   - <b><a href="https://github.com/Syed-A-Naqvi/information_visualization_R/tree/master/assignment">Analysis and Visualization of United States Electric Vehicle Data
     
